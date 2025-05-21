@@ -1,0 +1,2 @@
+# Integrated-Healthcare-System-for-Vulnerable-Populations-Leveraging-IOT-Machine-learning-
+Healthcare systems struggle to meet the needs of vulnerable groups like post-surgery patients and those with NCDs. This study proposes an integrated system using adaptive learning, blockchain, predictive analytics, and IoT to enhance personalized care, data security, early diagnosis, and continuous monitoring.
